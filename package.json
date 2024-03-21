@@ -1,0 +1,32 @@
+{
+  "name": "com.lineact.d-rrect",
+  "version": "0.1.0",
+  "displayName": "D-RRECT",
+  "description": "This is an example package",
+  "unity": "2019.1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.inputsystem": "1.7.0",
+    "com.lineact.lit": "0.2.0",
+    "com.unity.textmeshpro": "3.0.6",
+    "com.lineact.ros-tcp-connector": "0.7.0-preview"
+  },
+  "keywords": [
+    "LINEACT"
+  ],
+  "author": {
+    "name": "CESI LINEACT",
+    "email": "ro-xrlineact@cesi.fr",
+    "url": "https://lineact.cesi.fr/"
+  },
+
+  "samples": [
+    {
+      "displayName": "Scene samples",
+      "description": "Contains scenes showing how different type of data that can be used with the package.",
+      "path": "Samples~/SceneSamples"
+    }
+  ]
+}
